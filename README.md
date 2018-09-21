@@ -13,3 +13,4 @@ https://github.com/swiss-adminR/201809_slides/blob/master/2018-09-20_Meetup_RUse
 ### Data Cubes mit R erstellen
 https://github.com/swiss-adminR/201809_slides/blob/master/2018_09_20_data_cubes_adminR.pdf
 https://github.com/gibonet/distrr-shiny
+https://github.com/gibonet/distrr-examples
