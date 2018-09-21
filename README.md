@@ -5,4 +5,4 @@ Slides of our [first Meetup](https://www.meetup.com/adminR/events/253930551/), 2
 https://schnllr.github.io/adminR
 
 ### R im Ressort Konjunktur des SECO
-https://github.com/swiss-adminR/201809_slides
+https://github.com/swiss-adminR/201809_slideshttps://github.com/swiss-adminR/201809_slides/blob/master/seco_indergand.pdf
